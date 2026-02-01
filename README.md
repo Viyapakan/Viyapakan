@@ -19,7 +19,7 @@ Actively building systems that bridge hardware, firmware, and cloud, with a stro
 ## Experience
 
 ### IoT / Embedded Engineer Intern
-**[Company Name]** | [Duration]
+**[6 months]** | [Adveccio pvt ltd]
 
 - Developed embedded firmware for ESP32/STM32 using C/C++
 - Implemented sensor acquisition, data validation, and wireless transmission
