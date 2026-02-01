@@ -1,38 +1,71 @@
 # Shanmugam Viyapakan
 
-**IoT & Embedded Systems Engineer**  
-Colombo, Sri Lanka | [Portfolio](https://viyapakan.github.io)  
+**Electrical & Electronic Engineering Undergraduate**  
+University of Sri Jayewardenepura | [Portfolio](https://viyapakan.github.io)  
 [LinkedIn](https://www.linkedin.com/in/viyapakan-shanmugam-3a6864244/) · viyapakanshanmugam@gmail.com · +94 77 378 7113
 
 ---
 
 ## About
 
-Electrical and Electronic Engineering undergraduate at University of Sri Jayewardenepura with 2+ years hands-on experience in IoT and Embedded Systems.
+Electrical & Electronic Engineering undergraduate at the University of Sri Jayewardenepura, specializing in embedded firmware, low-power IoT systems, and edge-AI integration.
 
-- 6 months professional IoT/Embedded Engineer experience
-- Expertise in microcontroller programming (ESP32, STM32, Arduino)
-- IoT communication protocols & cloud integration
-- Machine Learning for embedded & IoT
-- Passion for bridging the physical & digital worlds
+Hands-on experience designing STM32/ESP32-based systems, implementing sensor data pipelines, and deploying wireless communication (LoRa, MQTT, WiFi) for real-world monitoring and automation.
+
+Actively building systems that bridge hardware, firmware, and cloud, with a strong focus on robust embedded code, system reliability, and practical deployment constraints.
+
+---
+
+## Experience
+
+### IoT / Embedded Engineer Intern
+**[Company Name]** | [Duration]
+
+- Developed embedded firmware for ESP32/STM32 using C/C++
+- Implemented sensor acquisition, data validation, and wireless transmission
+- Debugged hardware–firmware issues using logic analyzers and serial logs
+- Collaborated with firmware and cloud teams to integrate MQTT-based data pipelines
 
 ---
 
 ## Projects
 
-- **Smart Farming IoT System:** Multi-farm intelligent irrigation & monitoring with ML leaf disease detection  *(STM32, ESP32, TensorFlow, LoRa, MQTT)*
-- **Smart Face Detection:** Real-time system using Python, OpenCV, and ML 
-- **Automated Shop Server:** Robot delivery solution integrating Bluetooth & Embedded Systems
-- **Robofest 2023:** Wall/object avoidance robot – debut into robotics
+### Smart Farming IoT System
+- Designed multi-node IoT architecture using STM32 sensor nodes and ESP32 gateway
+- Implemented LoRa-based long-range communication for farm-scale deployment
+- Integrated TensorFlow Lite for on-device leaf disease detection
+- Built cloud data pipeline using MQTT for real-time monitoring and alerts
+
+### Smart Face Detection System
+- Developed real-time face detection pipeline using OpenCV and Python
+- Implemented computer vision algorithms for accurate detection under varying conditions
+- Optimized performance for edge deployment on resource-constrained devices
+
+### Automated Shop Server Robot
+- Designed autonomous delivery robot integrating Bluetooth communication
+- Implemented embedded control system for navigation and obstacle avoidance
+- Developed firmware for motor control and sensor integration
+
+### Robofest 2023 – Autonomous Robot
+- Built wall and object avoidance robot using ultrasonic and IR sensors
+- Programmed autonomous navigation algorithms in embedded C
+- Debugged sensor fusion and control logic for reliable operation
 
 ---
 
 ## Skills & Technologies
 
-- **Languages:** C/C++, Embedded C, Python, HTML
-- **Platforms:** STM32, ESP32, Arduino, Raspberry Pi
-- **Protocols:** UART, I²C, SPI, WiFi, Bluetooth, LoRa, MQTT, HTTP
-- **ML & AI:** TensorFlow Lite, Edge AI, Computer Vision, IoT Data Analytics
+**Languages**  
+C, Embedded C, C++, Python
+
+**Embedded Platforms**  
+STM32, ESP32, Raspberry Pi
+
+**Communication & Protocols**  
+UART, I²C, SPI, LoRa, MQTT, WiFi, Bluetooth, HTTP
+
+**AI & Edge Computing**  
+TensorFlow Lite, Computer Vision (OpenCV), Edge AI deployment on microcontrollers
 
 ---
 
@@ -48,4 +81,4 @@ Electrical and Electronic Engineering undergraduate at University of Sri Jayewar
 
 ---
 
-Thank you for visiting — let’s build the future together!
+**Open to internships and entry-level roles in embedded systems, IoT, and edge AI.**
